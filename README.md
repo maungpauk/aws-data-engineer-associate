@@ -1,4 +1,16 @@
-# AWS Certified Data Engineer – Associate Exam Prep 🚀
+<p align="center">
+  <img width="90%" src="/img/AWS_certified_de_exam_prep.png" alt="Path to Data Engineering: Notes from the Field">
+</p>
+
+<h1 align="center">
+    <strong>AWS Certified Data Engineer – Associate Exam Prep</strong>
+</h1>
+<h3 align="center">
+    <i>____by Maung Pauk</i>
+</h3>
+
+
+The AWS Certified Data Engineer - Associate Exam Prep Specialization on Coursera offers a four-course curriculum designed for the DEA-C01 exam, focusing on implementing data pipelines and optimizing storage using services like AWS Glue and Redshift. It covers critical skills for scaling data architectures, securing data, and monitoring operational performance, according to the Coursera course materials. 
 
 This repository contains study notes, hands-on lab code, and exam prep resources for the **AWS Certified Data Engineer – Associate** certification, based on the 4-course Coursera specialization.
 
