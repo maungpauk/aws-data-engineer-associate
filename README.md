@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="90%" src="/img/AWS_certified_de_exam_prep.png" alt="Path to Data Engineering: Notes from the Field">
+  <img width="100%" src="/img/AWS_certified_de_exam_prep.png" alt="Path to Data Engineering: Notes from the Field">
 </p>
 
 <h1 align="center">
