@@ -47,5 +47,6 @@ This course provides a foundational understanding of AWS data engineering princi
 *Disclaimer: AWS and Amazon Web Services are trademarks of Amazon.com, Inc. or its affiliates. This course is not officially affiliated with or endorsed by AWS. It is just taken notes*
 
 ## 🔗 Resources
+
 * [Coursera Specialization Page](https://www.coursera.org/learn/aws-data-engineer-foundations?specialization=aws-data-engineer-certification)
 
