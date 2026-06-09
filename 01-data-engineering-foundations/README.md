@@ -1,4 +1,14 @@
-<h1><center>Data Engineering Foundations on AWS</center></h1>
+<p align="center">
+  <img width="100%" src="/img/de_foundation_aws.png" alt="Data Engineering Foundations on AWS">
+</p>
+
+<h1 align="center">
+    <strong>Data Engineering Foundations on AWS</strong>
+</h1>
+<h3 align="center">
+    <i>____by Maung Pauk</i>
+</h3>
+
 
 
 ## 📌 Overview
@@ -35,3 +45,7 @@ This course provides a foundational understanding of AWS data engineering princi
 
 ---
 *Disclaimer: AWS and Amazon Web Services are trademarks of Amazon.com, Inc. or its affiliates. This course is not officially affiliated with or endorsed by AWS. It is just taken notes*
+
+## 🔗 Resources
+* [Coursera Specialization Page](https://www.coursera.org/learn/aws-data-engineer-foundations?specialization=aws-data-engineer-certification)
+
